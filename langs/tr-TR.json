@@ -1,0 +1,138 @@
+{
+    "main": {
+      "title": "Dil Desteği",
+      "bodytext": "Dil Desteği yazısı için MobilerDev'i ziyaret edin."
+    },
+  
+    "firstscreen": {
+        "logintext": "Giriş Yap",
+      "middletext": "Hesabınız yok mu ?",
+      "registertext": "Kayıt Ol"
+  
+  
+    },
+    "registerscreen": {
+  
+      "signuptext": "Kayıt Ol",
+      "namesurnametext": "İsim & Soyisim",
+      "namesurnameexampletext": "Selim Efe",
+      "emailtext": "E-posta",
+      "emailexampletext": "example@info.com",
+      "passwordtext":"Parola",
+      "passwordexampletext":"Lütfen Bir Parola Seçin",
+      "middletext": "Ya da",
+      "googletext": "Google",
+      "facebooktext": "Facebook",
+      "createaccounttext": "Hesap Oluştur"
+  
+  
+  
+    },
+    "loginscreen": {
+      "logintoptext": "Giriş",
+      "emailtext": "E-posta",
+      "emailexampletext": "E-posta adresinizi giriniz",
+      "passwordtext":"Parola",
+      "passwordexampletext":"Lütfen Parolanızı Giriniz",
+      "middletext": "Ya da",
+      "googletext": "Google",
+      "facebooktext": "Facebook",
+      "loginbottomtext": "Giriş Yap"
+    },
+    "introscreen": {
+      "slide1titletext": "Başlık1",
+      "slide1descriptiontext": "Ripper’ın Meta evrenine Hoş Geldiniz!",
+      "slide2titletext": "Başlık2",
+      "slide2descriptiontext": "Sahip olduğun zamanı dostlarına transfer edebilirsin! ",
+      "slide3titletext": "Başlık3",
+      "slide3descriptiontext": "Transferleri yapabilmek için hesabını onaylaman gerekiyor!",
+      "slide4titletext": "Başlık4",
+      "slide4descriptiontext": "Ripper’ın Meta evrenindeki kuralları kabul etmen gerekmektedir.",
+      "slide5titletext": "Başlık5",
+      "slide5descriptiontext": "Ripper’ın Meta evreninde kazandığın zamanları gerçek hayatta doya doya harca!"
+    },
+    "timegiverscreen": {
+  
+      "yeartext": " Yıl",
+      "monthtext": " Ay",
+      "daytext": " Gün",
+      "hourtext": " Saat",
+      "minutetext": " Dakika",
+      "secondtext": " Saniye"
+  
+  
+    },
+    "deathpage": {
+      "yeartext": " Yıl",
+      "monthtext": " Ay",
+      "daytext": " Gün",
+      "hourtext": " Saat",
+      "minutetext": " Dakika",
+      "secondtext": " Saniye"
+  
+    },
+    "deathpagezero": {
+  
+      "toptext": "Ripper",
+      "middletext": "Geliyor",
+      "bottomtext": "Kaç !"
+  
+  
+  
+    },
+    "amountdialog": {
+      "successtext":"Başarılı",
+      "failtext":"Başarısız",
+      "loadingtext":"Bekleniyor",
+      "sendtimetext": "Zaman Gönder",
+      "earntimetext": "Zaman İste",
+      "gameplaytext":"Oyun",
+      "howmanytext":"Kaç gün göndermek istersin ?",
+      "waitingdays":"Zaman Bekleniyor",
+      "availabledays":"Mevcut Gün:"
+  
+  
+    },
+    "settings":{
+      "profileedittext":"Profil Ayar",
+      "legaltext":"Yasal",
+      "helpsupporttext":"Yardım & Destek",
+      "logouttext":"Oturum Kapat",
+      "donetext":"Geri",
+      "editprofiletext":"Profil Düzenle",
+      "accountlevel1text":"Hesap Seviyesi 1:",
+      "accountlevel2text":"Hesap Seviyesi 2:",
+      "verifymailtext":"Email Doğrulama",
+      "verifyphonetext":"Telefon Doğrulama",
+      "level1text":"Seviye 1:",
+      "level2text":"Seviye 2:"
+    },
+    "editprofile":{
+      "editnametext":"Kullanıcı Adı Düzenle",
+      "writeyournametext":"Yeni Kullanıcı Adı Gir",
+      "updateprofiletext":"Profili Güncelle"
+    },
+    "phoneverify":{
+      "phoneverifytext":"Telefon Doğrulama",
+      "phonenumbertext":"Telefon Numarası",
+      "writeyourphonetext":"Telefon Numaranızı Giriniz",
+      "verifycodemessagetext":"Doğrulama Kodu",
+      "invalidphonenumbertext":"Geçersiz Telefon Numarası",
+      "writeyourverifytext":"Doğrulama Kodunu Girin",
+      "verifycodetext":"Doğrulama Kodu",
+      "sendcodetext":"Kod Gönder"
+    },
+    
+    "infoscreen": {
+      "info": "Bilgi"
+  
+  
+    },
+    "qrcamerascreen": {
+  
+      "sendbuttontext": "Gönder"
+  
+  
+    }
+  }
+  

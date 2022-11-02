@@ -1,0 +1,142 @@
+{
+    "main": {
+      "title": "Language Support",
+      "bodytext": "Visit mobilerDev for language support article"
+    },
+  
+  
+    "firstscreen": {
+      "logintext": "LOGIN",
+      "middletext": "Don't have an account?",
+      "registertext": "REGISTER"
+  
+  
+    },
+    "registerscreen": {
+  
+      "signuptext": "Sign up",
+      "namesurnametext": "Name & Surname",
+      "namesurnameexampletext": "Layan Saudade",
+      "emailtext": "E-mail",
+      "emailexampletext": "example@info.com",
+      "passwordtext":"Password",
+      "passwordexampletext":"Pick a strong password",
+      "middletext": "Or Sign up With",
+      "googletext": "Google",
+      "facebooktext": "Facebook",
+      "createaccounttext": "Create Account"
+  
+  
+  
+    },
+    "loginscreen": {
+      "logintoptext": "Log in",
+      "emailtext": "E-mail",
+      "emailexampletext": "Enter Your Email Address",
+      "passwordtext":"Password",
+      "passwordexampletext":"Enter Your Password",
+      "middletext": "Or Sign in With",
+      "googletext": "Google",
+      "facebooktext": "Facebook",
+      "loginbottomtext": "LOG IN"
+    },
+    "introscreen": {
+      "slide1titletext": "TITLE1",
+      "slide1descriptiontext": "Welcome to the Meta universe of the Ripper Be careful to spend a full life that will be given to you, but don't get caught by the Ripper!",
+      "slide2titletext": "TITLE",
+      "slide2descriptiontext": "You can send or receive the time you have to others.5",
+      "slide3titletext": "TITLE3",
+      "slide3descriptiontext": "In order to make transfers, you must confirm it with your mobile number.",
+      "slide4titletext": "TITLE4",
+      "slide4descriptiontext": "You have to accept the rules of the Ripper's Meta universe.",
+      "slide5titletext": "TITLE5",
+      "slide5descriptiontext": "Remember, this universe is only virtual right now, but you can be one of the Founding fathers who have already reached eternal life in the Ripper Meta universe that we will live in in the future! Take risks and Survive!"
+    },
+    "timegiverscreen": {
+  
+      "yeartext": " Year",
+      "monthtext": " Month",
+      "daytext": " Day",
+      "hourtext": " Hour",
+      "minutetext": " Minute",
+      "secondtext": " Second"
+  
+  
+    },
+    "deathpage": {
+  
+      "yeartext": " Year",
+      "monthtext": " Month",
+      "daytext": " Day",
+      "hourtext": " Hour",
+      "minutetext": " Minute",
+      "secondtext": " Second"
+  
+    },
+    "deathpagezero": {
+  
+      "toptext": "Wait",
+      "middletext": "The",
+      "bottomtext": "Ripper"
+  
+  
+  
+    },
+    "amountdialog": {
+      "successtext":"Success",
+      "failtext":"Fail",
+      "loadingtext":"Waiting",
+      "sendtimetext": "Send Time",
+      "earntimetext": "Earn Time",
+      "gameplaytext":"GamePlay",
+      "howmanytext":"How Many Days ?",
+      "waitingdays":"Waiting Time",
+      "availabledays":"Available Days:"
+  
+  
+    },
+    "settings":{
+      "profileedittext":"Profile Edit",
+      "legaltext":"Legal",
+      "helpsupporttext":"Help & Support",
+      "logouttext":"Logout",
+      "donetext":"Done",
+      "editprofiletext":"Edit Profile",
+      "accountlevel1text":"Account Level 1:",
+      "accountlevel2text":"Account Level 2:",
+      "verifymailtext":"Verify Email",
+      "verifyphonetext":"Verify Phone",
+      "level1text":"Level 1:",
+      "level2text":"Level 2:"
+  
+    },
+    "editprofile":{
+      "editnametext":"Edit Name",
+      "writeyournametext":"Enter New Nickname",
+      "updateprofiletext":"Update Profile"
+    },
+    "phoneverify":{
+      "phoneverifytext":"Phone Verify",
+      "phonenumbertext":"Phone Number",
+      "writeyourphonetext":"Write Your Phone Text",
+      "verifycodemessagetext":"Verify Code",
+      "invalidphonenumbertext":"Invalid Phone Number",
+      "writeyourverifytext":"Enter Verify Code",
+      "verifycodetext":"Verify Code",
+      "sendcodetext":"Send Code"
+    },
+    
+    "infoscreen": {
+  
+      "info": "Info"
+  
+  
+    },
+    "qrcamerascreen": {
+  
+      "sendbuttontext": "Send"
+  
+  
+    }
+  
+  }
