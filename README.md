@@ -18,6 +18,7 @@ Isola is a social platform only for students with the goal of giving the best st
 
 
 
+
 ## Kullanılan Teknolojiler
 
 Flutter, Node.js, Cloud Functions, Cloud Firestore
