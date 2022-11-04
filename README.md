@@ -8,12 +8,13 @@ Isola is a social platform only for students with the goal of giving the best st
     
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper1.png?alt=media&token=6eb90728-feb0-4854-8b5f-fcbf47105535)
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper2.png?alt=media&token=ed5fc831-f393-4558-a75d-7d4f147ea14b)
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper3.png?alt=media&token=bf2535e9-3e8a-4f8b-965a-881d3b3f2d1a)
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper4.png?alt=media&token=88e51144-5682-4248-ad9d-a45e1114ee09)
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper5.png?alt=media&token=5eac5d92-449d-4c77-a6f8-2ac2a6600e00)
-![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper6.png?alt=media&token=d0be93c8-fea8-41fb-9ab0-2bf97843f6ec)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fripper_screenshots.png?alt=media&token=b1693448-6eb7-472c-9c51-4e85aeccd8f6)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%201.png?alt=media&token=93d096c3-827a-49b6-98f9-16e2eddda7e0)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%202.png?alt=media&token=85e887e8-5156-46ff-9dc0-5729dadb7337)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%203.png?alt=media&token=e2b0608c-3ee9-436b-b9aa-22b00336e312)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%204.png?alt=media&token=a1173aae-9955-406d-bf0c-2220689127a6)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%205.png?alt=media&token=4b30395d-422f-4d90-902a-9fa3198dacb5)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2FDesktop%20-%206.png?alt=media&token=9d3b0dad-1d95-4552-bbbe-5e3c8ab66ab6)
 
 
 
