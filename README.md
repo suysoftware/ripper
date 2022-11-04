@@ -1,7 +1,7 @@
 
 # RIPPER
 
-Isola is a social platform only for students with the goal of giving the best student life to all the young people who are craving to socialize more with their peers and to take offline what started online.
+The Ripper game takes place in a universe where lifetimes can be transferred.
 
 ![Logo](https://i.ibb.co/yFQhWfw/Dynamic-gentis-logo.png)
 
